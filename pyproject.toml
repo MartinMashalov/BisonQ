@@ -1,0 +1,18 @@
+[project]
+name = "BisonQ"
+version = "0.0.1"
+authors = [
+  { name="Martin Mashalov", email="martin.mashalov@gmail.com" },
+]
+description = "BisonQ is the world's most streamlined API to create algorithmic and quantitative trading strategies that are actionable and profitable"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
